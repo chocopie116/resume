@@ -6,9 +6,9 @@ English Follows Japanese.
 
 | 年代 | 出来事 |
 | ------------- | ------------- |
-2020~現在| 株式会社コクリ [https://coc.re/](https://coc.re/)
-2019~2020| 個人事業主 [https://chocopie116.me/](https://chocopie116.me/)
-2012~2019| 株式会社VOYAGE GROUP(現:株式会社CARTA HOLDINGS) [https://cartaholdings.co.jp/](https://cartaholdings.co.jp/)
+2020~現在| 株式会社コクリ [https://coc.re/](https://coc.re)
+2019~2020| 個人事業主 [https://chocopie116.me/](https://chocopie116.me)
+2012~2019| 株式会社VOYAGE GROUP(現:株式会社CARTA HOLDINGS) [https://cartaholdings.co.jp/](https://cartaholdings.co.jp)
 2010~2012| Hokkaido University Civil Engineering 
 2006~2010| 北海道大学 工学部環境社会工学科
 
