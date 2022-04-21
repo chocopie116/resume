@@ -1,5 +1,18 @@
 # 履歴書/Resume
 English Resume is [here](/en/)
+## 基本情報
+<img align="left" width="200" height="200" src="images/self.jpeg">
+
+| 項目　| | 
+| ------------- | ------------- 
+名前             | 梶沼　翼(KAJINUMA Tsubasa)
+生年月日         | 1988/01/16
+Twitter         | [@chocopie116](https://twitter.com/chocopie116)
+Facebook        | [https://www.facebook.com/chocopie116](https://www.facebook.com/chocopie116)
+Linkedin        | [https://www.linkedin.com/in/tsubasa-kajinuma/](https://www.linkedin.com/in/tsubasa-kajinuma/)
+
+
+
 ## 経歴
 ※2022年現在
 
@@ -20,7 +33,7 @@ English Resume is [here](/en/)
 * ソフトウェア開発だけでなく、プロダクト設計・プロジェクトマネジメント・チームマネジメントも行います。
 * 確実性の高いプロジェクトよりは、不確実性の高いプロジェクトが好きです。
 * 小さいチームで裁量をもって働くことが好きです。
-* 顧客からみた時の価値について議論できる環境を望みます。
+* 顧客からみた時の価値について議論できる環境を大切にします。
 * 事業・サービス・組織を天秤にかけた上で、実利(技術が解決する課題)を優先して技術選定することが多いです
 * 0→1の事業の立ち上げ支援を行うことが多いので、広く浅く・サービス立ち上げに必要な技術が好きです
 * 家族(妻・娘2人)との時間を大切にしています。
