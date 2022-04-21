@@ -1,92 +1,115 @@
+# Resume
+## Basic information
+<img align="left" width="200" height="200" src="../images/self.jpeg">
+
+| item | | 
+| ------------- | ------------- 
+Name             | KAJINUMA Tsubasa
+Birthday | 1988/01/16
+Twitter         | [@chocopie116](https://twitter.com/chocopie116)
+Facebook        | [https://www.facebook.com/chocopie116](https://www.facebook.com/chocopie116)
+Linkedin        | [https://www.linkedin.com/in/tsubasa-kajinuma/](https://www.linkedin.com/in/tsubasa-kajinuma/)
+
+
+
 ## Biography
 
-| Age | Event
+| year | belongs |
 | ------------- | ------------- |
-2020~| Cocre.inc
-2019~2020| Freelance
-2012~2019| VOYAGE GROUP Inc.
+2020~| Cocre inc [https://coc.re/](https://coc.re)
+2019~2020| Freelance [https://chocopie116.me/](https://chocopie116.me)
+2012~2019| VOYAGE GROUP inc [https://voyagegroup.com/](https://voyagegroup.com)
 2010~2012| Hokkaido University Civil Engineering 
-2006~2010| Department of Environmental and Social Engineering, Faculty of Engineering, Hokkaido University
+2006~2010| Hokakido University Civil Engineering
 
-### Aspirations
 
-* I am interested in creating businesses and services.
-* After weighing business, service, and organization, I often select technology by prioritizing practical benefits (focus on what is solved by technology). But I like to learn about technology also.
-* I prefer projects with a high degree of uncertainty to projects with a high degree of certainty.
-* I like working in small teams with discretion.
-* I am more interested in why and what than the how when it comes to manufacturing.
+## Aspirations
 
-## Skill Set
+* Interested in creating businesses and services.
+* Concerned with Why or What rather than How at engineering
+* Intend Full-Cycle Engineering that Full-Stack Engineer
+* Don't only software development, but also product desin, project management, team management
+* Excited with high uncertainty projects.
+* Like to work in a small team with discretion.
+* Think important an environment where can discuss value from the customer's perspective.
+* Select technologies by not curiosity, but balancing business, services, and team
+* Emphasis productivity and operation-less technologies because often help no resources startup .
+* Value time with my family(wife, 2 daughters)
 
-Web back-end development career mainly consists of my career, and I have learned web front-end development as needed.
-Recently I often used TypeScript for both front-end and back-end, with GCP/Firebase.
+## Experienced Skills
 
-### Languages/Frameworks
-#### Backend
-* TypeScript, Node.js/Express
-    * I have experience in service development as a member and leader.
-    * I can develop web services including CI/CD and testing without problems.
-    * I have no more than 2 years of experience in service operation and maintenance using Node.js.
-* PHP/Laravel
-    * I have experience using this service in service development as a member and leader.
-    * I also have partial experience with Symfony and CakePHP.
-    * I started my career in PHP and have over 3 years of experience in service operations and maintenance.
-* Ruby/Ruby on Rails
-    * I have experience developing team member services on the side.
-    * I have experience developing services for small scale 0 to 1 projects.
-    * No more than 1 year of service operation and maintenance experience using Rails.
-* GraphQL(Apollo)
-    * I have experience developing new development projects as a member and leader, employing Express + Apollo.
-* Datastore
-    * MySQL Main.
+### Programming Language / Framework
+| Language      | Experienced Years| remarks | 
+| ------------- | ------------- | ----------- |
+PHP             | 7years           | Laravel, Slim, Symfony, CakePHP, WordPress|
+JavaScript      | 7years           | (frontend) React.js, Vue.js  / (backend) Express,jQuery|
+TypeScript      | 3years           | (frontend) React.js, Next.js/ (backend) Express|
+Ruby            | 2years           | Ruby on Rails, Sinatra|
 
-#### Front-end
-* React/Next.js
-    * I have experience in service development as a member and leader.
-    * I have experience with Redux, Flux, and RxJS, but have not mastered them.
-    * I often use React hooks, React-hook-form, and Apollo-Client for state management.
-* Vue.js/Nuxt.js
-    * I have experience developing SPA websites with Vue.js (at ver1 or lower).
-    * I have experience developing services as a member.
-### Services (IaaS, PaaS, SaaS)
-* AWS
-    * I have modified and operated terraform scripts prepared by the team's infrastructure engineer.
-* GCP/Firebase
-    * I have experience in starting new projects.
-    * CloudRun is my very favorite service.
-* Heroku
-    * I have experience hiring for small service launches.
-* LINE
-    * I have experience developing with LIFF.
-    * We believe that the fact that no registration is required and push notification is possible is very good.
+### others 
+| Skill | Experienced Years| remarks | 
+| ------------- | ------------- | ----------- |
+MySQL           | 10years          | - 
+Heroku          | 4years           | ClearDB, Papertrail | 
+AWS             | 4years           | EC2, ECS,Fargate ...etc
+Firebase        | 3years           | Firebase Authentication, Firestore, Cloud Functions, Hosting, Storage
+GCP             | 2years           | Cloud Run, Cloud SQL,Cloud Spanner...etc
+LINE            | 2years           | LINE Front-end Framework, Messaging API
+GitHub Actions  | 2years           |  - 
+GraphQL         | 1years           | Apollo
 
-## Affiliation and Project Summary
+## Belongs and Projects
+### Cocre.inc  2020~
+- Position: CEO/Engineer
+- Services: Software development 
+- Role: Technical Director(requirement definition), Software Engineer(architect, development, operation)
+- Development Environment: Depends on the project
+#### Project summary
 
-### VOYAGE GROUP Inc.
-Developed the website for EC Navi, a point site that collects points every day.
-We developed content and services aimed at increasing sales and the retention rate of site users.
-I experienced solving various problems with a web service that has been in operation for more than 10 years.
+| Project overview                                      | Used technologies                 | Product design | Project Management| Development | Team Management
+| ---------------------------------                     | -------------------------------   | ------- | ------- | ----  | ------- |
+Ride-sharing service in underpopulated areas          | GCP, Next.js, Express, GraphQL, MySQL, LINE Frontend Framework|  ◯     |   ◯    |　◯      | ◯      
+Online hotel reservation service for businesses       | GCP, Next.js, Express, GraphQL, Cloud Spanner, Expedia API |        |   ◯    |　◯      | ◯      
+Online English conversation matching system for closed members | GCP, Next.js, firestore |        |       |　◯      | ◯      
+Creator co-creation promotion platform                               | GCP, Next.js, Express, GraphQL           |        |        |　◯      | ◯      
+Rebranding and e-commerce site development for a restaurant in Biei, Hokkaido | XServer, Shopify        | ◯      |  ◯      | ◯      | ◯      
+Creation of restaurant video content for digital signage  | - | ◯      |  ◯      | -      | ◯      
 
-### Supporterz Inc (2016~2019)
-Developed website for Supporters, an engineering recruitment support business.
-We performed in-house production, system renewal, and rearchitecting for the expansion of a service that had been outsourced and developed by an external contractor.
-We launched an event website in partnership with connpass.
+### Freelance 2018~2020
+- Position: Technical Director/Software Engineer
+- Service:Software development  
+- Role: Technical Director(requirement definition), Software Engineer(architect, development, operation)
+- Development Environment: Depends on the project
 
-### Freelance (2018~2020)
-I proposed, developed, and operated software that could solve problems in small startups while listening what they consider business chance.
+#### プロジェクト概要
 
-- (Contracted) Event and attendance management service for communities through wine.
-- (Contracted) A platform for creators to create portfolios.
-- (Semi-commissioned) Order, order, and production management system for improving auto parts manufacturing in Nagoya, Japan.
-- (Contracted) Member admission management service for the Japan CTO Association
-- (Contracted) Development of a shipment reporting LINE application for a fruit and vegetable distribution market
-- (Semi-Contracted) Creation of PHP backend engineer training curriculum for a programming school
+| Project overview                                      | Used technologies                 | Product design | Project Management| Development | Team Management
+| --------------------------------- | ----------------------------------   | ------- | ------- | ----  | ------- |
+Online booking home visit for Veterinary Clinic   | AWS, Next.js, Laravel, MySQL |   ◯    |   ◯    |　◯      | ◯      
+Event attendance management service for wine social gatherings     | Heroku, Ruby on Rails, MySQL        | ◯      |  ◯      | ◯      | ◯      
+Portfolio creation service for creators   | Heroku, Laravel , MySQL              | ◯      |  ◯      | ◯      | ◯      
+Production management service for an automotive parts manufacturing plant      | AWS, Laravel , MySQL, Nuxt.js        |        |         | ◯      |       
+Member admission management service for Japan CTO Association       | Heroku, Laravel , MySQL, Slack API   |  ◯     |   ◯     | ◯      | - 
+back-end engineering curriculum for programming school | -           | -      |   -     |  -      |    -   
 
-### Cocre inc(2020~)
-We have developed services using software, both semi-contracted and contracted.
-- (Contracted) Development of a home visit appointment management platform for veterinary hospitals.
-- (Contracted) Re-branding/EC site development for a restaurant in Biei, Hokkaido
-- (Outsourcing) Creator co-creation promotion matching platform
-- (Outsourced) New travel-related service
-- (Contracted) Ride-sharing LINE application development in underpopulated areas
 
+### Supporterz inc 2016~2019
+- Position: Engineering Manager/Software Engineer
+- Service:Human Resource Service (Hiring)
+- Role: Management on product, project, team. development
+- Development Environment: AWS, Linux, Apache, Nginx, PHP(CakePHP, Slim), MySQL, jQuery, TypeScript(React.js, RxJS, Redux), Python(Django)
+
+Involved in the development of the hiring website whose name is Supporters.
+Setting up the engineering team.
+Re-architected the service (CakePHP) that had been in operation since its launch (Slim PHP) to allow for gradual migration.
+also launched a event website for support mid-career recruiting by negotiated a license for exist website and forked.
+
+
+### VOYAGE GROUP inc 2012~2016
+- Position: Backend Engineering
+- Service: Point sites that allow people to earn money in spare time
+- Role: development
+- Development Environment: AWS, Linux, Apache, Nginx, PHP(CakePHP, Slim), MySQL, jQuery, TypeScript(React.js, RxJS, Redux), Python(Django)
+
+In charge development of the website for EC Navi, a point site that accumulates points every day.  
+I planned, developed, and managed content and service improvements aimed at improving sales per user and the site's retention rate.  
