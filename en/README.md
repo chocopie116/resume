@@ -60,6 +60,7 @@ GraphQL         | 1years           | Apollo
 
 ## Belongs and Projects
 ### Cocre.inc  2020~
+#### Basic Information
 - Position: CEO/Engineer
 - Services: Software development 
 - Role: Technical Director(requirement definition), Software Engineer(architect, development, operation)
@@ -76,15 +77,17 @@ Rebranding and e-commerce site development for a restaurant in Biei, Hokkaido | 
 Creation of restaurant video content for digital signage  | - | ◯      |  ◯      | -      | ◯      
 
 ### Freelance 2018~2020
+#### Basic Information
 - Position: Technical Director/Software Engineer
 - Service:Software development  
 - Role: Technical Director(requirement definition), Software Engineer(architect, development, operation)
 - Development Environment: Depends on the project
 
-#### プロジェクト概要
+#### Project summary
 
 | Project overview                                      | Used technologies                 | Product design | Project Management| Development | Team Management
 | --------------------------------- | ----------------------------------   | ------- | ------- | ----  | ------- |
+Shipment reporting system for fruit and vegetable distribution markets      | React.js, Express, Firestore, Cloud Functions |   ◯    |   ◯    |　◯      |   
 Online booking home visit for Veterinary Clinic   | AWS, Next.js, Laravel, MySQL |   ◯    |   ◯    |　◯      | ◯      
 Event attendance management service for wine social gatherings     | Heroku, Ruby on Rails, MySQL        | ◯      |  ◯      | ◯      | ◯      
 Portfolio creation service for creators   | Heroku, Laravel , MySQL              | ◯      |  ◯      | ◯      | ◯      
@@ -94,22 +97,36 @@ back-end engineering curriculum for programming school | -           | -      | 
 
 
 ### Supporterz inc 2016~2019
+#### Basic Information
 - Position: Engineering Manager/Software Engineer
 - Service:Human Resource Service (Hiring)
 - Role: Management on product, project, team. development
 - Development Environment: AWS, Linux, Apache, Nginx, PHP(CakePHP, Slim), MySQL, jQuery, TypeScript(React.js, RxJS, Redux), Python(Django)
 
-Involved in the development of the hiring website whose name is Supporters.
-Setting up the engineering team.
-Re-architected the service (CakePHP) that had been in operation since its launch (Slim PHP) to allow for gradual migration.
-also launched a event website for support mid-career recruiting by negotiated a license for exist website and forked.
+#### Project summary
+- Engineering Manager (1~5 people)
+- Re-architecting legacy systems (CakePHP -> Slim PHP)
+- Renewal of legacy system (TypeScript, Scala)
+- Building an event website for the launch of a mid-career recruiting support business. Negotiated licensing of external services.
+- New graduate recruiting experience
 
 
 ### VOYAGE GROUP inc 2012~2016
+#### Basic Information
 - Position: Backend Engineering
 - Service: Point sites that allow people to earn money in spare time
 - Role: development
 - Development Environment: AWS, Linux, Apache, Nginx, PHP(CakePHP, Slim), MySQL, jQuery, TypeScript(React.js, RxJS, Redux), Python(Django)
 
-In charge development of the website for EC Navi, a point site that accumulates points every day.  
-I planned, developed, and managed content and service improvements aimed at improving sales per user and the site's retention rate.  
+#### Project summary
+- Building a dashboard of KPIs for hundreds of thousands of DAUs (user sales and utilization)
+- Planning, development, and operation for KPI improvement
+- Negotiation and system integration with external partners
+- Implementation of important functions to redeem points
+- Response to unauthorized access (login attacks) and unauthorized use (introduction of 2FA)
+- Investigation and organization of information assets for information security for the purpose of listing
+- Migration from on-premise to AWS
+- New graduate recruiting experience
+- Planning and organizing company-wide general meetings of the company
+
+Translated with www.DeepL.com/Translator (free version)
