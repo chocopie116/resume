@@ -26,6 +26,13 @@
 - Values time with my family (wife and 2 daughters)
 
 ## Skills
+### Natural language
+
+| Language   | Levels            | remarks                                                |
+| ---------- | ----------------- | ------------------------------------------------------ |
+| Japanese   | Native            | -                                                      |
+| English.   | Intermediate      | TOEIC 740/990, Hackathon with english speakers in LasVegas(Re:Invent).  | 
+
 
 ### Programming Languages / Frameworks
 
