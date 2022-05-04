@@ -25,13 +25,6 @@
 - Emphasizes technologies that enhance productivity and incur less operation cost that help startups with lower budget.
 - Values time with my family (wife and 2 daughters)
 
-## Education
-
-| year      | shcool                                |
-| --------- | ------------------------------------- |
-| 2010~2012 | Hokkaido University Civil Engineering |
-| 2006~2010 | Hokakido University Civil Engineering |
-
 ## Skills
 
 ### Programming Languages / Frameworks
@@ -55,6 +48,13 @@
 | LINE           | 2years            | LINE Front-end Framework, Messaging API                               |
 | GitHub Actions | 2years            | -                                                                     |
 | GraphQL        | 1years            | Apollo                                                                |
+
+## Education
+
+| year      | shcool                                                                           |
+| --------- | -------------------------------------------------------------------------------- |
+| 2010~2012 | Hokkaido University, Graduate School of Engineering, Human Environmental Systems |
+| 2006~2010 | Hokakido University, School of Engineering, Socio-Environmental Engineering      |
 
 ## Work Experience
 
