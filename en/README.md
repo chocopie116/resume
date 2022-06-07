@@ -20,7 +20,7 @@
 - Works not just a coder, but also in product design, project management and team management
 - Excels in projects with many uncertainties.
 - Likes to work in a small team with discretion.
-- Values an environment where team can discuss customer's perspective first.
+- Values an environment where the team can discuss customer's perspective first.
 - Selects technologies by not curiosity, but to benefit business, services and team
 - Emphasizes technologies that enhance productivity and incur less operation cost that help startups with lower budget.
 - Values time with my family (wife and 2 daughters)
