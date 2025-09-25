@@ -1,4 +1,6 @@
 # 履歴書/Resume
+最終更新日: 2025-09-25
+
 English Resume is [here](/en/)
 ## 基本情報
 <img align="left" width="200" height="200" src="images/self.jpeg">
@@ -7,36 +9,31 @@ English Resume is [here](/en/)
 | ------------- | ------------------------------------------------------------------------------------------------|
 名前             | 梶沼　翼(KAJINUMA Tsubasa)
 生年月日         | 1988/01/16
-Twitter         | [@chocopie116](https://twitter.com/chocopie116)
+Twitter         | [@chocopie116](https://twitter.com/tsubasa_cocre)
 Facebook        | [https://www.facebook.com/chocopie116](https://www.facebook.com/chocopie116)
 Linkedin        | [https://www.linkedin.com/in/tsubasa-kajinuma/](https://www.linkedin.com/in/tsubasa-kajinuma/)
 
 
 
 ## 経歴
-※2022年現在
 
 | 年代 | 出来事 |
 | ------------- | ------------- |
-2020~現在| 株式会社コクリ [https://coc.re/](https://coc.re)
-2019~2020| 個人事業主 [https://chocopie116.me/](https://chocopie116.me)
-2012~2019| 株式会社VOYAGE GROUP(現:株式会社CARTA HOLDINGS) [https://cartaholdings.co.jp/](https://cartaholdings.co.jp)
-2010~2012| Hokkaido University Civil Engineering 
-2006~2010| 北海道大学 工学部環境社会工学科
+|2020~現在| 株式会社コクリ [https://coc.re/](https://coc.re)
+|2019~2020| 個人事業主 [https://chocopie116.me/](https://chocopie116.me)
+|2016~2019| 株式会社サポーターズ(株式会社VOYAGE GROUP子会社)
+|2012~2016| 株式会社VOYAGE GROUP(現:株式会社CARTA HOLDINGS) [https://cartaholdings.co.jp/](https://cartaholdings.co.jp)
+|2010~2012| Hokkaido University Civil Engineering 
+|2006~2010| 北海道大学 工学部環境社会工学科
 
 
 ## 志向
 
-* 事業・サービスをつくることに興味があります
-* ものづくりをするときは、howより、whyやwhatに関心があります。
-* フルスタックエンジニアより、フルサイクルエンジニアを志向しています。
-* ソフトウェア開発だけでなく、プロダクト設計・プロジェクトマネジメント・チームマネジメントも行います。
-* 確実性の高いプロジェクトよりは、不確実性の高いプロジェクトが好きです。
-* 小さいチームで裁量をもって働くことが好きです。
-* 顧客からみた時の価値について議論できる環境を大切にします。
-* 事業・サービス・組織を天秤にかけた上で、実利(技術が解決する課題)を優先して技術選定することが多いです
-* 0→1の事業の立ち上げ支援を行うことが多いので、広く浅く・サービス立ち上げに必要な技術が好きです
-* 家族(妻・娘2人)との時間を大切にしています。
+* 事業価値起点でプロダクトを設計・実装する志向です。
+* Whyを起点に意思決定し、Howは仮説検証で磨き込みます。
+* 要件定義〜設計〜実装〜運用までを一貫して担うフルサイクルエンジニアです。
+* 開発に加え、プロダクト設計・プロジェクト/チームマネジメントもリードします。
+* 不確実性の高い0→1に強みがあり、少人数での高速実行を好みます。
 
 ## スキルセット
 ### 自然言語
@@ -50,7 +47,7 @@ Linkedin        | [https://www.linkedin.com/in/tsubasa-kajinuma/](https://www.li
 | ------------- | ------------- | ----------- |
 PHP             | 7年           | Laravel, Slim, Symfony, CakePHP, WordPress|
 JavaScript      | 7年           | (frontend) React.js, Vue.js  / (backend) Express,jQuery|
-TypeScript      | 3年           | (frontend) React.js, Next.js/ (backend) Express|
+TypeScript      | 6年           | (frontend) React.js, Next.js/ (backend) Express|
 Ruby            | 2年           | Ruby on Rails, Sinatra|
 
 ### その他
@@ -75,14 +72,21 @@ GraphQL         | 1年           | Apollo
 #### 携わったこと
 社内にエンジニアがいない零細企業や中小企業を顧客に、0→1のシステム構築とビジネス立ち上げ支援をしてきました。
 
-| 案件概要                                               | 技術スタック                         | 顧客対応 | 要件定義  | 開発  | チームマネジメント| 
-| ---------------------------------                     | -------------------------------   | ------- | ------- | ----  | ------- |
+| 案件概要                         | 技術スタック                   | 顧客対応 | 要件定義  | 開発  | チームマネジメント| 
+| ------------------------------   | -----------------------------  | ------- | ------- | ----  | ------- |
+  絵画販売事業者向けの販売管理システムの構築                     | remix, Render.com, PostgreSQL, Google Apps Script, Google Spreadsheet | ◯      | ◯      | ◯      | ◯      
+  住宅販売会社向けの商談評価AIの構築                             | Next.js, Vercel | ◯      | ◯      | ◯      |        
+  副業申請管理サービスのAI回答の構築                             | streamlit, lanchain, langfuse| ◯      | ◯      | ◯      |        
+  情報収集AI基盤の構築                                           | RSS reader, pipedream, matrix flow | ◯      | ◯      | ◯      |        
+  オフィス設計事業者向けのデータレポーティングツールの開発       | BigQuery, Fivetran, Google Sheets, Google Apps Script, dbt Cloud | ◯      | ◯      | ◯      |        
+  監査法人の税務監査DXサービスの開発                           | AWS, Ruby on Rails, react-rails |        |   ◯    |　◯      |        
  過疎地域でのライドシェアサービス                            | GCP, Next.js, Express, GraphQL, MySQL, LINE Frontend Framework|  ◯     |   ◯    |　◯      | ◯      
  事業者向けオンラインホテル予約サービス                        | GCP, Next.js, Express, GraphQL, Cloud Spanner |        |   ◯    |　◯      | ◯      
  クローズド会員向けのオンライン英会話マッチングシステム           | GCP, Next.js, firestore |        |       |　◯      | ◯      
  クリエイター共創促進プラットフォーム                          | GCP, Next.js, Express, GraphQL           |        |        |　◯      | ◯      
  北海道美瑛のレストランのリブランディング/ECサイト構築           | XServer, Shopify        | ◯      |  ◯      | ◯      | ◯      
  商業施設のデジタルサイネージ掲載用の飲食店の動画コンテンツ制作    | - | ◯      |  ◯      | -      | ◯      
+
 
 ### フリーランス 2018~2020
 #### 基本情報
@@ -123,11 +127,6 @@ GraphQL         | 1年           | Apollo
 - レガシーシステムのリニューアル(TypeScript, Scala)
 - 中途採用支援事業の立ち上げでイベントサイトの構築。外部サービスのライセンス取得の交渉。
 - 新卒採用経験
-- Engineering Manager (1~5 people)
-- Re-architecting legacy systems (CakePHP -> Slim PHP)
-- Renewal of legacy system (TypeScript, Scala)
-- Building an event website for the launch of a mid-career recruiting support business. Negotiated licensing of external services.
-- New graduate recruiting experience
 
 
 ### 株式会社VOYAGE GROUP 2012~2016

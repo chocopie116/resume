@@ -8,22 +8,21 @@
 | -------- | ---------------------------------------------------------------------------------------------- |
 | Name     | KAJINUMA Tsubasa                                                                               |
 | Birthday | 1988/01/16                                                                                     |
-| Twitter  | [@chocopie116](https://twitter.com/chocopie116)                                                |
+| Twitter  | [@chocopie116](https://twitter.com/tsubasa_cocre)                                                |
 | Facebook | [https://www.facebook.com/chocopie116](https://www.facebook.com/chocopie116)                   |
 | Linkedin | [https://www.linkedin.com/in/tsubasa-kajinuma/](https://www.linkedin.com/in/tsubasa-kajinuma/) |
 
 ## Aspirations
 
-- Interested in creating businesses and services.
-- Concenred with Why and What rather than How of software engineering
-- Intends Full-Cycle Engineering as a Full-Stack Engineer
-- Works not just a coder, but also in product design, project management and team management
-- Excels in projects with many uncertainties.
-- Likes to work in a small team with discretion.
-- Values an environment where the team can discuss customer's perspective first.
-- Selects technologies by not curiosity, but to benefit business, services and team
-- Emphasizes technologies that enhance productivity and incur less operation cost that help startups with lower budget.
-- Values time with my family (wife and 2 daughters)
+- I have a mindset of designing and implementing products starting from business value.
+- I make decisions starting with "Why" and refine the "How" through hypothesis testing.
+- I am a full-cycle engineer who handles everything from requirement definition to design, implementation, and operation.
+- In addition to development, I also lead product design, project, and team management.
+- I excel in high-uncertainty 0-to-1 projects and prefer fast execution with a small team.
+- I value an environment where the team can discuss customer's perspective first.
+- I select technologies not by curiosity, but to benefit business, services and team.
+- I emphasize technologies that enhance productivity and incur less operation cost that help startups with lower budget.
+- I value time with my family (wife and 2 daughters).
 
 ## Skills
 ### Natural language
@@ -40,7 +39,7 @@
 | ---------- | ----------------- | ------------------------------------------------------ |
 | PHP        | 7years            | Laravel, Slim, Symfony, CakePHP, WordPress             |
 | JavaScript | 7years            | (frontend) React.js, Vue.js / (backend) Express,jQuery |
-| TypeScript | 3years            | (frontend) React.js, Next.js/ (backend) Express        |
+| TypeScript | 6years            | (frontend) React.js, Next.js/ (backend) Express        |
 | Ruby       | 2years            | Ruby on Rails, Sinatra                                 |
 
 ### Others
@@ -69,7 +68,8 @@
 | --------- | -------------------------------------------------------------------- |
 | 2020~     | Cocre inc [https://coc.re/](https://coc.re)                          |
 | 2019~2020 | Freelance [https://chocopie116.me/](https://chocopie116.me)          |
-| 2012~2019 | VOYAGE GROUP inc [https://voyagegroup.com/](https://voyagegroup.com) |
+| 2016~2019 | Supporterz inc (Subsidiary of VOYAGE GROUP inc)                      |
+| 2012~2019 | VOYAGE GROUP inc (now CARTA HOLDINGS, Inc.) [https://cartaholdings.co.jp/](https://cartaholdings.co.jp) |
 
 ### Cocre.inc 2020~
 
@@ -81,8 +81,16 @@
 
 #### Project summary
 
+I have been supporting small and medium-sized enterprises without in-house engineers to build systems from 0 to 1 and launch their businesses.
+
 | Project overview                                                              | Used technologies                                              | Product design | Project Management | Development | Team Management |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------- | ------------------ | ----------- | --------------- |
+| Building a sales management system for an art sales business                  | remix, Render.com, PostgreSQL, Google Apps Script, Google Spreadsheet | ◯              | ◯                  | 　 ◯        | ◯               |
+| Building a business negotiation evaluation AI for a housing sales company     | Next.js, Vercel                                                | ◯              | ◯                  | 　 ◯        |                 |
+| Building an AI response for a side business application management service    | streamlit, lanchain, langfuse                                  | ◯              | ◯                  | 　 ◯        |                 |
+| Building an information gathering AI platform                                 | RSS reader, pipedream, matrix flow                             | ◯              | ◯                  | 　 ◯        |                 |
+| Developing a data reporting tool for an office design business                | BigQuery, Fivetran, Google Sheets, Google Apps Script, dbt Cloud | ◯              | ◯                  | 　 ◯        |                 |
+| Developing a tax audit DX service for an audit firm                           | AWS, Ruby on Rails, react-rails                                |                | ◯                  | 　 ◯        |                 |
 | Ride-sharing service in underpopulated areas                                  | GCP, Next.js, Express, GraphQL, MySQL, LINE Frontend Framework | ◯              | ◯                  | 　 ◯        | ◯               |
 | Online hotel reservation service for businesses                               | GCP, Next.js, Express, GraphQL, Cloud Spanner, Expedia API     |                | ◯                  | 　 ◯        | ◯               |
 | Online English conversation matching system for closed members                | GCP, Next.js, firestore                                        |                |                    | 　 ◯        | ◯               |
@@ -99,6 +107,10 @@
 - Role: Technical Director(requirement definition), Software Engineer(architect, development, operation)
 
 #### Project summary
+
+I have been supporting small and medium-sized enterprises without in-house engineers to build systems from 0 to 1 and launch their businesses. I helped with prototyping and customer value validation up to the seed round of funding.
+[kikitori, which operates "bando," a SaaS for agricultural product distribution sites, raises 50 million yen from Coral Capital (prtimes.jp)](https://prtimes.jp/main/html/rd/p/000000002.000028751.html)
+
 
 | Project overview                                                          | Used technologies                             | Product design | Project Management | Development | Team Management |
 | ------------------------------------------------------------------------- | --------------------------------------------- | -------------- | ------------------ | ----------- | --------------- |
@@ -117,7 +129,7 @@
 - Position: Engineering Manager/Software Engineer
 - Service:Human Resource Service (Hiring)
 - Role: Management on product, project, team and development
-- Development Environment: AWS, Linux, Apache, Nginx, PHP(CakePHP, Slim), MySQL, jQuery, TypeScript(React.js, RxJS, Redux), Python(Django)
+- Development Environment: AWS, Linux, Apache, Nginx, PHP(CakePHP, Slim), MySQL, jQuery, TypeScript(React.js, RxJS, Redux), Python(Django), Scala(Play)
 
 #### Project summary
 
@@ -134,7 +146,7 @@
 - Position: Backend Engineering
 - Service: Point site that allow people to earn money in spare time
 - Role: development
-- Development Environment: AWS, Linux, Apache, Nginx, PHP(CakePHP, Slim), MySQL, jQuery, TypeScript(React.js, RxJS, Redux), Python(Django)
+- Development Environment: On-premise, AWS, Linux, Apache, PHP, MySQL, jQuery, JavaScript
 
 #### Project summary
 
