@@ -50,17 +50,17 @@ JavaScript      | 7年           | (frontend) React.js, Vue.js  / (backend) Expr
 TypeScript      | 6年           | (frontend) React.js, Next.js/ (backend) Express|
 Ruby            | 2年           | Ruby on Rails, Sinatra|
 
-### その他
-| スキル         | 経験年数       | フレームワーク | 
-| ------------- | ------------- | ----------- |
-MySQL           | 10年          | - 
-Heroku          | 4年           | ClearDB, Papertrail | 
-AWS             | 4年           | EC2, ECS,Fargate ...etc
-Firebase        | 3年           | Firebase Authentication, Firestore, Cloud Functions, Hosting, Storage
-GCP             | 2年           | Cloud Run, Cloud SQL,Cloud Spanner...etc
-LINE            | 2年           | LINE Front-end Framework, Messaging API
-GitHub Actions  | 2年           |  - 
-GraphQL         | 1年           | Apollo
+### ミドルウェア・インフラ・SaaS
+| スキル        | フレームワーク | 
+| -------------| ----------- |
+MySQL               | - 
+Heroku              | ClearDB, Papertrail | 
+AWS                 | EC2, ECS,Fargate ...etc
+Firebase            | Firebase Authentication, Firestore, Cloud Functions, Hosting, Storage
+GCP                 | Cloud Run, Cloud SQL,Cloud Spanner...etc
+LINE                | LINE Front-end Framework, Messaging API
+GitHub Actions      |  - 
+GraphQL             | Apollo
 
 ## 所属とプロジェクト概要
 ### 株式会社コクリ 2020~
@@ -69,13 +69,13 @@ GraphQL         | 1年           | Apollo
 - サービス: ソフトウェア開発支援事業
 - 役割: 顧客対応・要件定義・開発・運用
 - 開発環境: 案件によって異なる(プロジェクト概要に記載)
-#### 携わったこと
-社内にエンジニアがいない零細企業や中小企業を顧客に、0→1のシステム構築とビジネス立ち上げ支援をしてきました。
 
-##### 【抜粋】過疎地域でのライドシェアサービス
+#### 【抜粋】過疎地域でのライドシェアサービス
 - **【課題】**: 人口減少が進む地方において、高齢者を中心とした交通弱者の移動手段の確保が喫緊の課題となっていた。
 - **【役割と貢献】**: サービス立ち上げ初期から参画。現地に何度も足を運び、利用者である高齢者やドライバーへの現地ヒアリングを重ねて仮説検証を実施。LINEミニアプリを活用したシンプルなUI/UXを設計し、高齢者でも直感的に利用できるシステムを構築した。GCPを基盤としたスケーラブルなアーキテクチャ設計により、将来の事業拡大にも耐えうるシステムを実現した。
 - **【成果】**: サービスは順調に成長し、支援した事業が評価されコープさっぽろのグループに参画。地域の社会課題を解決する持続可能なビジネスモデルの構築を技術面からリードした。
+
+#### 案件一覧
 
 | 案件概要                         | 技術スタック                   | 顧客対応 | 要件定義  | 開発  | チームマネジメント| 
 | ------------------------------   | -----------------------------  | ------- | ------- | ----  | ------- |
@@ -100,12 +100,14 @@ GraphQL         | 1年           | Apollo
 - 役割: 顧客対応・要件定義・開発・運用
 - 開発環境: 案件によって異なる(プロジェクト概要に記載)
 
-##### 【抜粋】青果流通市場向けの出荷報告システム 
+#### 【抜粋】青果流通市場向けの出荷報告システム 
 - **【課題】**: FAXや電話が中心だった出荷報告のアナログな業務フローにより、生産者と市場間のコミュニケーションに多大な時間と手間が発生していた。
 - **【役割と貢献】**: 創業者と二人三脚でプロトタイピングを重ね、生産者に現地ヒアリングも重ね、顧客価値の検証を高速で実施。スマートフォンから手軽に報告できるUI/UXを設計し、React.jsとFirebaseを採用することで、サーバーレスかつ低コストでの迅速なサービス提供を実現した。
 - **【成果】**: プロトタイプの価値が投資家に評価され、Coral Capitalから5,000万円のシード資金調達に成功。事業の成長基盤を技術面から支えた。
 
 [農産物の流通現場向けSaaS「bando」を運営するkikitoriがCoral Capitalから5,000万円の資金調達を実施(prtimes.jp)](https://prtimes.jp/main/html/rd/p/000000002.000028751.html)
+
+#### 案件一覧
 
 | 案件概要                           | 技術スタック                           | 顧客対応 | 要件定義  | 開発  | チームマネジメント| 
 | --------------------------------- | ----------------------------------   | ------- | ------- | ----  | ------- |
