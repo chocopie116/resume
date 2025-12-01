@@ -9,7 +9,7 @@ English Resume is [here](/en/)
 | ------------- | ------------------------------------------------------------------------------------------------|
 名前             | 梶沼　翼(KAJINUMA Tsubasa)
 生年月日         | 1988/01/16
-Twitter         | [@chocopie116](https://twitter.com/tsubasa_cocre)
+Twitter         | [@tsubasa_cocre](https://twitter.com/tsubasa_cocre)
 Facebook        | [https://www.facebook.com/chocopie116](https://www.facebook.com/chocopie116)
 Linkedin        | [https://www.linkedin.com/in/tsubasa-kajinuma/](https://www.linkedin.com/in/tsubasa-kajinuma/)
 
