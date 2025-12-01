@@ -3,7 +3,7 @@
 
 English Resume is [here](/en/)
 ## 基本情報
-<img align="left" width="200" height="200" src="images/self.jpeg">
+<img align="left" width="200" src="images/self.jpeg">
 
 | 項目         　|                                                                                                 | 
 | ------------- | ------------------------------------------------------------------------------------------------|
@@ -27,13 +27,21 @@ Linkedin        | [https://www.linkedin.com/in/tsubasa-kajinuma/](https://www.li
 |2006~2010| 北海道大学 工学部環境社会工学科
 
 
-## 志向
+## 強みと志向
 
-* 事業価値起点でプロダクトを設計・実装する志向です。
-* Whyを起点に意思決定し、Howは仮説検証で磨き込みます。
-* 要件定義〜設計〜実装〜運用までを一貫して担うフルサイクルエンジニアです。
-* 開発に加え、プロダクト設計・プロジェクト/チームマネジメントもリードします。
-* 不確実性の高い0→1に強みがあり、少人数での高速実行を好みます。
+### クライアント課題を解決できる即戦力
+* 課題設定〜要件定義〜設計〜実装〜運用まで一貫して担当できるフルサイクルエンジニアです。
+* 事業価値を理解し、技術選定から実装までを自走して推進できます。
+* 現場のステークホルダーと密にコミュニケーションを取り、真の課題を引き出します。
+
+### 柔軟性と実行力
+* 特定技術に固執せず、課題解決に最適な技術スタックを選択・習得します。
+* 不確実性の高い0→1フェーズでの高速な仮説検証・実装が得意です。
+* プロダクト設計・開発・チームマネジメントまで、状況に応じて柔軟に役割を担います。
+
+### チームを巻き込む推進力
+* 周囲の技術者やビジネスメンバーを巻き込みながらプロジェクトを前進させます。
+* 少人数チームでのリード経験が豊富で、エンジニアリングマネジメントも可能です。
 
 ## スキルセット
 ### 自然言語
@@ -51,16 +59,29 @@ TypeScript      | 6年           | (frontend) React.js, Next.js/ (backend) Expre
 Ruby            | 2年           | Ruby on Rails, Sinatra|
 
 ### ミドルウェア・インフラ・SaaS
-| スキル        | フレームワーク | 
+
+#### データベース
+| 技術           | 詳細 | 
 | -------------| ----------- |
-MySQL               | - 
-Heroku              | ClearDB, Papertrail | 
-AWS                 | EC2, ECS,Fargate ...etc
-Firebase            | Firebase Authentication, Firestore, Cloud Functions, Hosting, Storage
-GCP                 | Cloud Run, Cloud SQL,Cloud Spanner...etc
-LINE                | LINE Front-end Framework, Messaging API
-GitHub Actions      |  - 
-GraphQL             | Apollo
+| MySQL        | ClearDB(Heroku), RDS(AWS), Cloud SQL(GCP), Render.com |
+| PostgreSQL   | RDS(AWS), Render.com, Neon, Supabase, Cloud SQL(GCP) |
+| NoSQL |  Firestore |
+
+#### クラウド・サーバー
+| 技術           | 使用サービス | 
+| -------------| ----------- |
+| AWS          | EC2, ECS, Fargate |
+| GCP          | Cloud Run |
+| Firebase     | Cloud Functions, Hosting |
+| Heroku       | - |
+
+
+#### その他
+| 技術           | 詳細 | 
+| -------------| ----------- |
+| LINE         | LINE Front-end Framework, Messaging API |
+| GitHub Actions | - |
+| GraphQL      | Apollo |
 
 ## 所属とプロジェクト概要
 
@@ -72,6 +93,7 @@ GraphQL             | Apollo
 - 役割: 顧客対応・要件定義・開発・運用
 - 開発環境: 案件によって異なる(プロジェクト概要に記載)
 
+
 #### 【抜粋】過疎地域でのライドシェアサービス
 - **【課題】**: 人口減少が進む地方において、高齢者を中心とした交通弱者の移動手段の確保が喫緊の課題となっていた。
 - **【役割と貢献】**: サービス立ち上げ初期から参画。現地に何度も足を運び、利用者である高齢者やドライバーへの現地ヒアリングを重ねて仮説検証を実施。LINEミニアプリを活用したシンプルなUI/UXを設計し、高齢者でも直感的に利用できるシステムを構築した。GCPを基盤としたスケーラブルなアーキテクチャ設計により、将来の事業拡大にも耐えうるシステムを実現した。
@@ -81,8 +103,9 @@ GraphQL             | Apollo
 
 | 案件概要                         | 技術スタック                   | 顧客対応 | 要件定義  | 開発  | チームマネジメント| 
 | ------------------------------   | -----------------------------  | ------- | ------- | ----  | ------- |
+  パーソナルジム向けのトレーニングメニューのAI構築                 | Next.js, Turbo Repo, Vercel, neon, gemini | ◯      | ◯      | ◯      |        
   絵画販売事業者向けの販売管理システムの構築                     | remix, Render.com, PostgreSQL, Google Apps Script, Google Spreadsheet | ◯      | ◯      | ◯      | ◯      
-  住宅販売会社向けの商談評価AIの構築                             | Next.js, Vercel | ◯      | ◯      | ◯      |        
+  住宅販売会社向けの商談評価AIの構築                             | Next.js, Vercel, dify | ◯      | ◯      | ◯      |        
   副業申請管理サービスのAI回答の構築                             | streamlit, lanchain, langfuse| ◯      | ◯      | ◯      |        
   情報収集AI基盤の構築                                           | RSS reader, pipedream, matrix flow | ◯      | ◯      | ◯      |        
   オフィス設計事業者向けのデータレポーティングツールの開発       | BigQuery, Fivetran, Google Sheets, Google Apps Script, dbt Cloud | ◯      | ◯      | ◯      |        
