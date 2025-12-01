@@ -1,7 +1,6 @@
-# 履歴書/Resume
+# 職務経歴書/Resume
 最終更新日: 2025-09-25
 
-English Resume is [here](/en/)
 ## 基本情報
 <img align="left" width="200" src="images/self.jpeg">
 
@@ -10,7 +9,7 @@ English Resume is [here](/en/)
 名前             | 梶沼　翼(KAJINUMA Tsubasa)
 生年月日         | 1988/01/16
 Twitter         | [@tsubasa_cocre](https://twitter.com/tsubasa_cocre)
-Facebook        | [https://www.facebook.com/chocopie116](https://www.facebook.com/chocopie116)
+Facebook        | [https://www.facebook.com/tsubas.kajinuma](https://www.facebook.com/tsubasa.kajinuma)
 Linkedin        | [https://www.linkedin.com/in/tsubasa-kajinuma/](https://www.linkedin.com/in/tsubasa-kajinuma/)
 
 
@@ -19,7 +18,7 @@ Linkedin        | [https://www.linkedin.com/in/tsubasa-kajinuma/](https://www.li
 
 | 年代 | 出来事 |
 | ------------- | ------------- |
-|2020~現在| 株式会社コクリ [https://coc.re/](https://coc.re)
+|2020~現在| 株式会社コクリ 代表取締役 [https://coc.re/](https://coc.re)
 |2019~2020| 個人事業主 [https://chocopie116.me/](https://chocopie116.me)
 |2016~2019| 株式会社サポーターズ(株式会社VOYAGE GROUP子会社)
 |2012~2016| 株式会社VOYAGE GROUP(現:株式会社CARTA HOLDINGS) [https://cartaholdings.co.jp/](https://cartaholdings.co.jp)
